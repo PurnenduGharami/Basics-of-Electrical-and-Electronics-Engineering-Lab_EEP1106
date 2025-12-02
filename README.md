@@ -81,7 +81,7 @@ Since I built the simulations using web technologies, you can run them easily:
 
 <p align="center">
   <img src="./SS/1.png" width="600" title="screen shot">
-  <img src="./SS/2.png" width="600" title="screen shot">
+  <img src="./SS/4.png" width="600" title="screen shot">
 </p>
 
 
